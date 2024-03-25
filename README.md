@@ -1,2 +1,1 @@
-# PrepCurse-Henry
-Repositorio del PrepCurse de SoyHenry
+Proyecto de prueba del prepcurse de SoyHenry
